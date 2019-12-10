@@ -1,3 +1,4 @@
+
 <template>
   <!-- views folder sluzi da se objedini nekoliko komponenti u celoviti prikaz -->
   <div>
@@ -23,4 +24,5 @@ export default {
 </script>
 
 <style scoped>
+
 </style>
